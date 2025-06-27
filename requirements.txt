@@ -1,0 +1,13 @@
+ultralytics
+transformers
+opencv-python
+geopy
+folium
+python-docx
+streamlit
+googlesearch-python
+openai
+streamlit run C:/Users/jawad/PycharmProjects/Embedded-PPEdetection/InsulatorFaultDetectionProject/app.py
+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
+gpt4all
+3bd764937d4fda3f539b38a8debbb778be10a0a8
