@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "3bd764937d4fda3f539b38a8debbb778be10a0a8"  # استبدله بمفتاحك
+API_KEY = "****"  # استبدله بمفتاحك
 
 def search_companies_web(query, country="Lebanon", local=True, max_results=5):
     try:
